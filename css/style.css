@@ -32,7 +32,7 @@ ul {
     padding: 15px;
     background-color: rgba(72, 84, 96, .7);
     color: white;
-    margin-top: 10px;
+    margin-top: 50px;
     margin-bottom: 10px;
 }
 
@@ -85,7 +85,6 @@ header a:hover {
 /* SHOWCASE */
 #showcase {
     min-height: 600px;
-    background: url('../img/showcase.jpg') no-repeat 0 -400px;
     text-align: center;
     color: white; 
 }
@@ -158,6 +157,8 @@ aside#sidebar .quote input, aside#sideabar .quote textarea {
 article#main-col {
     float: left;
     width: 65%;
+    margin-bottom: 75px;
+    margin-top: 75px;
 }
 
 /* SERVICES */
