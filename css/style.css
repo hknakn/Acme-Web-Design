@@ -146,7 +146,12 @@ header a:hover {
 aside#sidebar {
      float: right;
      width: 30%;
-     margin-top: 10px;
+     margin-top: 52px;
+}
+
+aside#sidebar .quote input, aside#sideabar .quote textarea {
+    width: 90%;
+    padding: 5px;
 }
 
 /* Main-Col */
@@ -155,6 +160,14 @@ article#main-col {
     width: 65%;
 }
 
+/* SERVICES */
+ul#services li {
+    list-style: none;
+    padding: 20px;
+    border: #cccccc solid 1px;
+    margin-bottom: 5px;
+    background-color: #e6e6e6;
+}
 
 /* FOOTER */
 footer {
