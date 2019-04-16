@@ -6,7 +6,7 @@ This is a simple web site for **web design companies.**
 
 # Demo
 
-You can find live demo [here](https://tours-landing-page.netlify.com/).
+You can find live demo [here](https://acme-web-design.netlify.com).
 
 # How To Use
 
