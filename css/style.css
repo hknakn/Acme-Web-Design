@@ -25,6 +25,15 @@ ul {
     padding-right: 15px;
     color: white;
     cursor: pointer;
+    text-transform: uppercase;
+}
+
+.dark {
+    padding: 15px;
+    background-color: rgba(72, 84, 96, .7);
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 /* HEADER */
@@ -132,6 +141,20 @@ header a:hover {
 #boxes .box img {
     width: 90px;
 }
+
+/* SIDEBAR */
+aside#sidebar {
+     float: right;
+     width: 30%;
+     margin-top: 10px;
+}
+
+/* Main-Col */
+article#main-col {
+    float: left;
+    width: 65%;
+}
+
 
 /* FOOTER */
 footer {
